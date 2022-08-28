@@ -15,7 +15,7 @@ const Area = () => {
       <ChartComponent
         id='line-chart'
         height='420px'
-        width='80vw'
+        width='650px'
         primaryXAxis={areaPrimaryXAxis}
         primaryYAxis={areaPrimaryYAxis}
         chartArea={{ border: { width: 0 } }}
