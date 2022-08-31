@@ -181,7 +181,7 @@ export default function App() {
                 <div className=" md:w-3/4 h-full flex flex-col lg:flex-row shadow-xl justify-center">
                     <div className="bg-violet-600 text-white  lg:w-1/2  p-4">
                         <h2 className="text-xl text-bold text-center mb-4">FRONTEND DEVELOPMENT</h2>
-                        <div className="flex flex-row flex-wrap space-x-8 items-center justify-center text-left text-white p-4">
+                        <div className="flex flex-row flex-wrap md:space-x-8 space-x-4 items-center justify-center text-left text-white md:p-4 p-2">
                             <div className="flex flex-col space-y-4">
                                 <a href="#" className="text-white text-bold text-lg flex space-x-4 items-center">
                                     <BiMedal className='text-2xl text-white text-left' /><span
