@@ -40,7 +40,7 @@ export default function Nav() {
             </nav>
             <div className="md:hidden z-100">
                 <div id="menu"
-                    className={`z-100 absolute flex flex-col items-center self-end py-8 mt-20 space-y-6 font-bold bg-white sm-w-auto sm:self-center left-6 right-6 drop-shadow-md ${!isMenu && 'hidden'}`}>
+                    className={`z-100 fixed flex flex-col items-center self-end py-8 mt-20 space-y-6 font-bold bg-white sm-w-auto sm:self-center left-6 right-6 drop-shadow-md ${!isMenu && 'hidden'}`}>
                     <Link to='/' onClick={handleClick}>Home</Link>
                     <Link to='/products' className='nav-link relative' onClick={handleClick}>Products and Services</Link>
                     <Link to='/management' className='nav-link relative' onClick={handleClick}>Management</Link>

@@ -94,11 +94,11 @@ export default function Product() {
 
     })
     return (
-        <section className='products p-6'>
-            <div className='flex justify-center text-center p-6'>
+        <section className='products p-4 md:p-6'>
+            <div className='flex justify-center text-center p-4 md:p-6'>
                 <p>Avanage Products Catalogue. To order or make enquiries, <a href='#contact' className='underline text-redish'>contact us below</a></p>
             </div>
-            <div className='p-6 container'>
+            <div className='p-4 md:p-6 container'>
                 <div className='flex justify-center text-center'>
                     <h2 className='text-3xl text-redish'>Self Service Terminals</h2>
                 </div>
@@ -106,7 +106,7 @@ export default function Product() {
                     {selfServiceTerminals}
                 </div>
             </div>
-            <div className='p-6 container'>
+            <div className='p-4 md:p-6 container'>
                 <div className='flex justify-center text-center'>
                     <h2 className='text-3xl text-redish'>Teller Assistant Units</h2>
                 </div>
@@ -114,7 +114,7 @@ export default function Product() {
                     {tellerAssistantUnits}
                 </div>
             </div>
-            <div className='p-6 container'>
+            <div className='p-4 md:p-6 container'>
                 <div className='flex justify-center text-center'>
                     <h2 className='text-3xl text-redish'>Cash Processing Systems</h2>
                 </div>
