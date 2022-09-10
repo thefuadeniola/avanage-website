@@ -12,7 +12,7 @@ export default function Items() {
                     </h3>
                     <div className='hidden md:flex text-center'>
                         <Link
-                            to='/management'
+                            to='/products'
                             className="p-3 px-6 pt-2 text-white bg-redish rounded-full baseline hover:bg-pastel"
                         >All Products</Link>
 

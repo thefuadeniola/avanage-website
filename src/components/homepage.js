@@ -6,7 +6,7 @@ import Products from './Swiper'
 import { Link } from 'react-router-dom'
 import emmanuel from '../assets/emmanuel-okey-okoro.png'
 import bajomo from '../assets/olumide-bajomo.png'
-import adebola from '../assets/adebola.png'
+import adebola from '../assets/mrAyo.png'
 
 export default function HomePage() {
     return (

@@ -26,7 +26,7 @@ export const data = [
     {
         name: 'mutual',
         fullName: 'Dr Akin A. Ogunbiyi & Mr Adesoye Olatunji',
-        position: 'for Mutual Benefits Assurance PLC',
+        position: 'representing Mutual Benefits Assurance PLC',
         bio: 'Mutual Benefits Assurance Plc is today a leading financial, wealth protection company in Nigeria, a premier provider of Life Insurance, Auto Insurance, Health Insurance, Special Risks, and Investment products and services with assets under management in excess of USD 2 million as of December 31, 2009. The company also operates through the following subsidiaries: Mutual Benefits Life Assurance Limited, Mutual Benefits Assets Management Limited, Mutual Homes and Properties Limited, Charks Investment Limited, Mutual Micro Finance Bank Limited, Mutual Model Transport Limited along with international operations in Liberia and Cameroun within the West Africa region. The company commenced operation in 1995 and became a public liability company in 2001 followed by successful listing on the Nigerian Stock Exchange in 2002.'
     },
     {
@@ -87,6 +87,14 @@ export const sst = [
         model: '',
         pros: ['Innovative Multi-Media Self-Service Solution', 'Designed with High Speed Note Acceptor and Wide Touch Screen', 'Provides 24/7 Access to Financial and Non-Financial Banking Services', 'Low-cost, High Visibility and Easy Accessibility']
     },
+    {
+        name: 'GRGBanking H34N',
+        image: 'https://global.grgbanking.com/GRGHKUpload/OldFiles/product/5b3591752ec9f.png',
+        type: 'Full Function ATM',
+        model: '',
+        pros: ['High Reliability and Outstanding Performance', 'Intelligent Deposit', 'Flexible Scalability']
+    },
+
 ]
 
 export const tau = [
@@ -102,6 +110,13 @@ export const tau = [
         type: 'Intelligent Bulk Cash Deposit Machines',
         pros: ['High Speed, Large Capacity Cash Deposit Machine', 'Features Banknote Validation', 'Sorting and Serial Number Tracking', 'Available in Front or Rear Serviced Mode']
     },
+    {
+        name: 'GRGBanking P5800',
+        image: 'http://ulysses.kiev.ua/images/P5800_s.jpg',
+        type: 'Intelligent Bulk Cash Deposit Machines',
+        pros: ['Automated cash processing', 'Cash sorting', 'Serial Number Tracking', 'Cassette Swapping']
+    },
+
     {
         name: 'GRGBanking BCR5600G',
         type: '',
@@ -123,6 +138,13 @@ export const cps = [
         type: 'Banknote Sorting Machine & Counting Machine',
         pros: ['5-inch touch screen plus function keys', 'In-Built Banknote Detection Technology', '7-Inch Large LCD Touch Screen Enhancing User’s Experience', 'Precise Cash Processing']
     },
+    {
+        name: 'GRGBanking P5500L',
+        image: 'https://global.grgbanking.com/GRGHKUpload/OldFiles/product/5c8b41e91952b.png',
+        type: 'Bulk Cash Recycler',
+        pros: ['Configurable with A4 printers, card or u-key issuers, biometrics solutions, NFCs, barcode readers, which can easily meet the requirements of different scenarios.', 'Premier Security with UL291 Level 1 safe box', '7-Inch Large LCD Touch Screen Enhancing User’s Experience', 'Precise Cash Processing']
+    },
+
 
 ]
 

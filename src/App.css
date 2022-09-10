@@ -251,3 +251,9 @@ p {
   grid-template-columns: repeat(4, 1fr);
   gap: 15px;
 }
+
+.big {
+  font-size: 72px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+}
