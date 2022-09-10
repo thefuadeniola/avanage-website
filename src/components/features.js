@@ -12,8 +12,7 @@ export default function Features() {
                         What do we do at Avanage?
                     </h2>
                     <p class="max-w-sm text-center text-darkGrayishBlue md:text-left">
-                        Our principal activities range from <span className='text-redish'>electronic banking</span>,
-                        <span className='text-redish'>payment systems</span>, consulting, to sales and services of the latest <span className='text-redish'>cash automation technology</span>
+                        Our principal activities range from <span className='text-redish'>electronic banking</span>, <span className='text-redish'>payment systems</span>, consulting, sales and servicing of the latest <span className='text-redish'>cash automation technology </span>
                         in Africa.
                     </p>
                     <div className='big p-8 shadow-lg hover:shadow-xl max-w-sm rounded-lg'>
